@@ -104,8 +104,9 @@
 			this.LogTextBox.ScrollBars = System.Windows.Forms.ScrollBars.Both;
 			this.LogTextBox.Size = new System.Drawing.Size(500, 300);
 			this.LogTextBox.TabIndex = 20;
-			this.LogTextBox.Text = "本工具用于将指定编码和格式的文件统统转换为UTF-8-BOM编码\r\n把需要处理的文件或文件夹拖入此窗口即可\r\n文件的输出名称为“原文件名称 (n)”\r\n文件夹的输" +
-    "出名称为“原文件夹名称 (Converted)”\r\n\r\n";
+			this.LogTextBox.Text = "项目地址 https://github.com/Fegelein21/ConvertToUTF8BOM\r\n\r\n本工具用于将指定编码和格式的文件统统转换为UTF-8" +
+    "-BOM编码\r\n把需要处理的文件或文件夹拖入此窗口即可\r\n文件的输出名称为“原文件名称 (n)”\r\n文件夹的输出名称为“原文件夹名称 (Converted)”\r" +
+    "\n\r\n";
 			// 
 			// EncodingCheckedListBox
 			// 
